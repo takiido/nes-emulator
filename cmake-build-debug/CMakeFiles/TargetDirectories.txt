@@ -1,0 +1,3 @@
+C:/Projects/nes-emulator/cmake-build-debug/CMakeFiles/nes_emulator.dir
+C:/Projects/nes-emulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/nes-emulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
